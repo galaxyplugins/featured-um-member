@@ -1,0 +1,17 @@
+/* This stylesheet is used to style the public view of the widget. */
+.widget .um-member-photo.um-featured-profile-only img {
+  border: none;
+  width: 100%;
+  max-width:100%;
+  height: auto;
+}
+.widget .um-member {
+  width: 100%;
+  margin-bottom: 0px;
+}
+.um-featured-profile-only {
+	padding: 0px 0px 5px;
+}
+.um-member-name {
+	text-align:center;
+}

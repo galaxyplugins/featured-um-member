@@ -1,0 +1,5 @@
+/* This stylesheet is used to style the admin option form of the widget. */
+.wrapper fieldset { border: 1px solid #ddd; width: 90%; padding: 5%; }
+.option { margin: 12px 0 12px 0; width: 100%; float:left; }
+.option .text-input {width: 100%; }
+.option label {width: 100%; float:left; clear:both; }
