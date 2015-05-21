@@ -1,4 +1,4 @@
-=== Widget Name ===
+Ultimate Member Featured Member Widget
 
 Contributors: josephclawrence
 Tags: widget, ultimate member, wordpress
